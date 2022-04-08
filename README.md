@@ -1,2 +1,2 @@
 # footer-b02
-footer
+Footer dalam project pengerjaan Bootcamp Progate.com
